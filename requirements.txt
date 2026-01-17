@@ -1,0 +1,16 @@
+# Data Manipulation & Math
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Statistics
+statsmodels
+
+# Notebook Environment
+ipykernel
